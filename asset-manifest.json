@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/VSR/static/css/main.77bcf6d3.css",
-    "main.js": "/VSR/static/js/main.111e8ebf.js",
-    "static/media/Project1.png.png": "/VSR/static/media/Project1.png.a93a25a4e0d43889b091.png",
-    "static/media/about (1).png": "/VSR/static/media/about (1).619ff0b319a55d0c05b1.png",
-    "static/media/hero.png": "/VSR/static/media/hero.f14f30c6d01a97df04f6.png",
-    "static/media/pngwing.com.png": "/VSR/static/media/pngwing.com.41fc21f177f39586bfeb.png",
-    "index.html": "/VSR/index.html",
-    "main.77bcf6d3.css.map": "/VSR/static/css/main.77bcf6d3.css.map",
-    "main.111e8ebf.js.map": "/VSR/static/js/main.111e8ebf.js.map"
+    "main.css": "/Vishva01/VSR.git/static/css/main.77bcf6d3.css",
+    "main.js": "/Vishva01/VSR.git/static/js/main.fb8df737.js",
+    "static/media/Project1.png.png": "/Vishva01/VSR.git/static/media/Project1.png.a93a25a4e0d43889b091.png",
+    "static/media/about (1).png": "/Vishva01/VSR.git/static/media/about (1).619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/Vishva01/VSR.git/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/pngwing.com.png": "/Vishva01/VSR.git/static/media/pngwing.com.41fc21f177f39586bfeb.png",
+    "index.html": "/Vishva01/VSR.git/index.html",
+    "main.77bcf6d3.css.map": "/Vishva01/VSR.git/static/css/main.77bcf6d3.css.map",
+    "main.fb8df737.js.map": "/Vishva01/VSR.git/static/js/main.fb8df737.js.map"
   },
   "entrypoints": [
     "static/css/main.77bcf6d3.css",
-    "static/js/main.111e8ebf.js"
+    "static/js/main.fb8df737.js"
   ]
 }
