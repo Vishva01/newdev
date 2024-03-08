@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/VSR/static/css/main.77bcf6d3.css",
-    "main.js": "/VSR/static/js/main.111e8ebf.js",
-    "static/media/Project1.png.png": "/VSR/static/media/Project1.png.a93a25a4e0d43889b091.png",
-    "static/media/about (1).png": "/VSR/static/media/about (1).619ff0b319a55d0c05b1.png",
-    "static/media/hero.png": "/VSR/static/media/hero.f14f30c6d01a97df04f6.png",
-    "static/media/pngwing.com.png": "/VSR/static/media/pngwing.com.41fc21f177f39586bfeb.png",
-    "index.html": "/VSR/index.html",
-    "main.77bcf6d3.css.map": "/VSR/static/css/main.77bcf6d3.css.map",
-    "main.111e8ebf.js.map": "/VSR/static/js/main.111e8ebf.js.map"
+    "main.css": "/newdev/static/css/main.5816dc83.css",
+    "main.js": "/newdev/static/js/main.7f02c7cd.js",
+    "static/media/Project1.png.png": "/newdev/static/media/Project1.png.a93a25a4e0d43889b091.png",
+    "static/media/about (1).png": "/newdev/static/media/about (1).619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/newdev/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/pngwing.com.png": "/newdev/static/media/pngwing.com.41fc21f177f39586bfeb.png",
+    "index.html": "/newdev/index.html",
+    "main.5816dc83.css.map": "/newdev/static/css/main.5816dc83.css.map",
+    "main.7f02c7cd.js.map": "/newdev/static/js/main.7f02c7cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.77bcf6d3.css",
-    "static/js/main.111e8ebf.js"
+    "static/css/main.5816dc83.css",
+    "static/js/main.7f02c7cd.js"
   ]
 }
